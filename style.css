@@ -28,6 +28,7 @@ img {
 }
 body {
 margin: 10
+max width 900px;
 }
 main {
   max-width: 900px;
