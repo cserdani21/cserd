@@ -18,7 +18,7 @@ h2 {
   font-size: 1.2rem;
   text-transform: capitalize;
   margin: 0 auto;
-    allign: center;
+
 }
 
 img {
@@ -83,6 +83,7 @@ main {
   display: inline-block;
   padding-right: 1rem;
   padding-left: 1rem;
+    
 }
 
 .caption {
