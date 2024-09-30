@@ -17,7 +17,7 @@ h2 {
   font-weight: 400;
   font-size: 1.2rem;
   text-transform: capitalize;
-  margin: 0;
+  margin: 0 auto;
     allign: center;
 }
 
@@ -52,14 +52,7 @@ main {
   color: #888;
 }
 
-#landing-image {
-  background: url(https://source.unsplash.com/De8wMYoSSBc);
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 50vh;
-  flex: 0 1 60vw;
-  margin: 0;
+
 }
 
 .btn {
