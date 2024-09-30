@@ -1,7 +1,9 @@
 
 
+
 body {
-    margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin: 0;
   background: #eee;
   height: auto;
 }
@@ -17,8 +19,7 @@ h2 {
   font-weight: 400;
   font-size: 1.2rem;
   text-transform: capitalize;
-  margin: 0 auto;
-
+  margin: 0;
 }
 
 img {
@@ -52,8 +53,6 @@ main {
   color: #888;
 }
 
-
-}
 #landing-image {
   background: url(https://source.unsplash.com/De8wMYoSSBc);
   background-position: center;
@@ -63,6 +62,7 @@ main {
   flex: 0 1 60vw;
   margin: 0;
 }
+
 .btn {
   padding: 0.5rem 2rem;
   border: 1px #ccc solid;
@@ -91,7 +91,6 @@ main {
   display: inline-block;
   padding-right: 1rem;
   padding-left: 1rem;
-    
 }
 
 .caption {
@@ -133,3 +132,4 @@ footer h3 {
     padding: 1rem 3rem;
   }
 }
+
